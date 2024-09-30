@@ -8,5 +8,4 @@ while indice < len(cadena):
 
 
 
-print("La cadena tiene", len(cadena), "caracteres.")
 print(f"La cadena tiene {len(cadena)} caracteres.")
